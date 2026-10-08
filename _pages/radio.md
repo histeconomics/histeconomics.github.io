@@ -87,7 +87,7 @@ nav_order: 5
 ### 📻 La Banque Centrale Européenne et les Cryptomonnaies
 - **Durée :** 7 min
 - **Description :** Analyse des enjeux de la BCE face aux cryptomonnaies et de la régulation dans l'Union Européenne.
-- 🔗 **Écouter l'épisode :** [Écouter sur Euradio]([https://euradio.fr/emission/9xxQ-eureco](https://euradio.fr/emission/9xxQ-eureco/NzLY-la-banque-centrale-europeenne-et-les-cryptomonnaies)
+- 🔗 **Écouter l'épisode :** [Écouter sur Euradio](https://euradio.fr/emission/9xxQ-eureco/NzLY-la-banque-centrale-europeenne-et-les-cryptomonnaies)
 
 ---
 
