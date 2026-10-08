@@ -8,7 +8,7 @@ nav_order: 3
 # 🎙️ Euréco — Chronique Économique sur Euradio
 
 > **Un concept, une histoire, un éclairage.**  
-> Retrouvez chaque mois mes interventions dans la chronique *Euréco* sur Euradio, où nous décryptons un concept clé de l'économie à travers son actualité européenne et son histoire.
+> Retrouvez mes interventions dans la chronique *Euréco* sur Euradio, où nous décryptons un concept clé de l'économie à travers son actualité européenne et son histoire.
 
 ---
 
