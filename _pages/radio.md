@@ -1,7 +1,7 @@
 ---
-layout: radio
-permalink: /radio talks/
-title: radio talks
+layout: page
+permalink: /radio-talks/
+title: Radio Talks
 nav: true
 nav_order: 5
 ---
@@ -30,13 +30,14 @@ nav_order: 5
   }
 
   /* --- Police machine à écrire pour les deux modes --- */
-  .post, 
-  .post article, 
-  .post p, 
-  .post h1, 
-  .post h2, 
+  .post,
+  .post article,
+  .post p,
+  .post h1,
+  .post h2,
   .post h3,
-  .post li {
+  .post li,
+  .post blockquote {
     font-family: 'Special Elite', cursive, monospace !important;
     font-size: 1.05rem;
     line-height: 1.6;
@@ -48,8 +49,29 @@ nav_order: 5
   html[data-theme="dark"] .post h1,
   html[data-theme="dark"] .post h2,
   html[data-theme="dark"] .post h3,
-  html[data-theme="dark"] .post li {
+  html[data-theme="dark"] .post li,
+  html[data-theme="dark"] .post blockquote {
     color: #e0e0e0 !important;
+  }
+
+  /* Prise en charge des liens et citations en mode clair / sombre */
+  .post blockquote {
+    border-left: 3px solid #8b5a2b;
+    padding-left: 1rem;
+    margin-left: 0;
+  }
+
+  html[data-theme="dark"] .post blockquote {
+    border-left-color: #d4a373;
+  }
+
+  .post a {
+    color: #8b5a2b;
+    text-decoration: underline;
+  }
+
+  html[data-theme="dark"] .post a {
+    color: #d4a373;
   }
 </style>
 
