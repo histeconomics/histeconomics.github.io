@@ -6,7 +6,6 @@ nav: true
 nav_order: 5
 ---
 
-
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 
