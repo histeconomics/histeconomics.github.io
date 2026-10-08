@@ -3,7 +3,7 @@ layout: radio
 permalink: /radio talks/
 title: radio talks
 nav: false
-nav_order: 3
+nav_order: 5
 ---
 # 🎙️ Euréco — Chronique Économique sur Euradio
 
