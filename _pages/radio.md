@@ -84,7 +84,14 @@ nav_order: 5
 
 ## 🎧 Épisodes récents
 
-### 📻 La Banque Centrale Européenne et les Cryptomonnaies
+### 📻 Et si les Banques Centrales n’existaient pas ? L’approche libérale de l’économiste Vera Smith 
+- **Durée :** 6 min
+- **Description :** Présente les recherches de l'économiste britannique Véra Smith et le courant du "free banking"
+- 🔗 **Écouter l'épisode :** [Écouter sur Euradio](https://euradio.fr/emission/9xxQ-eureco/PMxp-et-si-les-banques-centrales-nexistaient-pas-lapproche-liberale-de-leconomiste-vera-smith)
+
+---
+
+### 📻 James Tobin, La Banque Centrale Européenne et les Cryptomonnaies
 - **Durée :** 7 min
 - **Description :** Analyse des enjeux de la BCE face aux cryptomonnaies et de la régulation dans l'Union Européenne.
 - 🔗 **Écouter l'épisode :** [Écouter sur Euradio](https://euradio.fr/emission/9xxQ-eureco/NzLY-la-banque-centrale-europeenne-et-les-cryptomonnaies)
@@ -94,21 +101,21 @@ nav_order: 5
 ### 📻 Les quotas de pêche
 - **Durée :** 8 min
 - **Description :** Éclairage sur la politique commune de la pêche et les mécanismes de régulation économique.
-- 🔗 **Écouter l'épisode :** [Écouter sur Euradio]([https://euradio.fr/emission/9xxQ-eureco](https://euradio.fr/emission/9xxQ-eureco/AABa-les-quotas-de-peche))
+- 🔗 **Écouter l'épisode :** [Écouter sur Euradio](https://euradio.fr/emission/9xxQ-eureco](https://euradio.fr/emission/9xxQ-eureco/AABa-les-quotas-de-peche)
 
 ---
 
 ### 📻 Le Prix Nobel d'économie
 - **Durée :** 7 min
 - **Description :** Retour sur l'histoire de la création du prix et l'impact des travaux récompensés.
-- 🔗 **Écouter l'épisode :** [Écouter sur Euradio]([https://euradio.fr/emission/9xxQ-eureco](https://euradio.fr/emission/9xxQ-eureco/oGD5-le-prix-nobel-deconomie))
+- 🔗 **Écouter l'épisode :** [Écouter sur Euradio](https://euradio.fr/emission/9xxQ-eureco](https://euradio.fr/emission/9xxQ-eureco/oGD5-le-prix-nobel-deconomie)
 
 ---
 
 ### 📻 L'économie du bas de laine
 - **Durée :** 9 min
 - **Description :** Réflexion sur l'épargne des ménages et les comportements face à l'incertitude économique.
-- 🔗 **Écouter l'épisode :** [Écouter sur Euradio]([https://euradio.fr/emission/9xxQ-eureco](https://euradio.fr/emission/9xxQ-eureco/bBVj-leconomie-du-bas-de-laine))
+- 🔗 **Écouter l'épisode :** [Écouter sur Euradio](https://euradio.fr/emission/9xxQ-eureco](https://euradio.fr/emission/9xxQ-eureco/bBVj-leconomie-du-bas-de-laine)
 
 ---
 
