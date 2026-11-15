@@ -8,10 +8,13 @@ nav_order: 7
 
 # 🌍 Propagation, ISS, WebSDR RI49
 
-## 📡 Conditions de Propagation HF
+## 📡 Conditions de Propagation HF-VHF
+Credit :[https://www.hamqsl.com/](https://www.hamqsl.com/), N0NBH
 
 <div style="text-align: center; margin: 20px 0;">
-  <iframe src="https://hamradiolist.com/hf-propagation.php?embed=worldwide" title="Worldwide HF Conditions from www.hamradiolist.com" width="100%" height="1600" style="max-width:1100px; border:0; overflow:hidden; border-radius:16px;" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+  <a href="https://www.hamqsl.com/solar.html" target="_blank" title="Click to add Solar-Terrestrial Data to your website!" rel="noopener">
+    <img src="https://www.hamqsl.com/solarn0nbh.php" alt="Conditions solaires et géomagnétiques N0NBH" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  </a>
 </div>
 
 ---
