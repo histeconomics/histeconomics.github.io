@@ -6,18 +6,22 @@ nav: true
 nav_order: 7
 ---
 
----
-layout: page
-title: "Propagation HF et WebSDR RI 49"
-permalink: /station/
----
-
-# 🌍 Propagation & WebSDR
+# 🌍 Propagation, ISS, WebSDR RI49
 
 ## 📡 Conditions de Propagation HF
 
 <div style="text-align: center; margin: 20px 0;">
   <iframe src="https://hamradiolist.com/hf-propagation.php?embed=worldwide" title="Worldwide HF Conditions from www.hamradiolist.com" width="100%" height="1600" style="max-width:1100px; border:0; overflow:hidden; border-radius:16px;" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+</div>
+
+---
+
+## 🛰️ Suivi de l'ISS (Station Spatiale Internationale)
+Position en direct et visibilité de l'ISS pour le trafic radioamateur (relais, APRS, etc.) :
+
+<div style="text-align: center; margin: 20px 0;">
+  <!-- Remplacez lat=48.8566 et lng=2.3522 par vos coordonnées exactes si vous le souhaitez -->
+  <iframe src="https://www.heavens-above.com/widget.aspx?lat=48.8566&lng=2.3522&loc=France&alt=35&tz=CET" width="300" height="350" style="border:0; border-radius:12px; max-width:100%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" loading="lazy"></iframe>
 </div>
 
 ---
@@ -31,7 +35,3 @@ permalink: /station/
   </a>
 </div>
 
-<!-- Cadre pour tenter d'afficher le WebSDR directement (soumis aux restrictions de sécurité HTTP/HTTPS du navigateur) -->
-<div style="position: relative; width: 100%; height: 600px; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; background: #000;">
-  <iframe src="http://f4hux.freeboxos.fr:18073/#freq=145662500,mod=nfm,sql=-150" width="100%" height="100%" style="border:none;"></iframe>
-</div>
