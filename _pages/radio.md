@@ -102,13 +102,12 @@ nav_order: 5
 - **Durée :** 8 min
 - **Description :** Éclairage sur la politique commune de la pêche et les mécanismes de régulation économique.
 - 🔗 **Écouter l'épisode :** [Écouter sur Euradio](https://euradio.fr/emission/9xxQ-eureco](https://euradio.fr/emission/9xxQ-eureco/AABa-les-quotas-de-peche)
-
 ---
 
 ### 📻 Le Prix Nobel d'économie
 - **Durée :** 7 min
 - **Description :** Retour sur l'histoire de la création du prix et l'impact des travaux récompensés.
-- 🔗 **Écouter l'épisode :** [Écouter sur Euradio](https://euradio.fr/emission/9xxQ-eureco](https://euradio.fr/emission/9xxQ-eureco/oGD5-le-prix-nobel-deconomie)
+- 🔗 **Écouter l'épisode :** [Écouter sur Euradio](https://euradio.fr/emission/9xxQ-eureco/oGD5-le-prix-nobel-deconomie)
 
 ---
 
